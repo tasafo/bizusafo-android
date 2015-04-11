@@ -4,5 +4,11 @@
     <string name="app_name">Bizu Safo</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="texto_botao_entrar">Acessar conta</string>
+    <string name="texto_botao_cadastrarse">Cadastrar-se</string>
+    <string name="texto_bem_vindo">Compartilhe qualquer link ou texto para outras pessoas. Para começar, informe suas credenciais de acesso.</string>
+    <string name="hint_campo_senha">Senha</string>
+    <string name="hint_campo_login">E-mail</string>
+    <string name="texto_crie_sua_conta">Você não tem cadastro? <a href='http://www.bizusafo.com.br/users/sign_up'>Crie sua conta.</a></string>
 
 </resources>
